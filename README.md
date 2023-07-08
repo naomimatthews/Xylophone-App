@@ -29,9 +29,7 @@ The Xylophone App is built using Swift and utilizes the following concepts:
 
 To download and run the Xylophone App on your local machine, follow these steps:
 
-1. Clone the repository to your local machine using the following command:
-
-git clone https://github.com/your-username/xylophone-app.git
+1. Clone the repository to your local machine.
 
 2. Open the Xcode project file (`Xylophone.xcodeproj`) in Xcode.
 
