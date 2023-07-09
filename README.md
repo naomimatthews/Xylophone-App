@@ -2,9 +2,7 @@
 
 This Xylophone App is a simple iOS application developed in Swift that allows users to play different musical notes on a virtual xylophone. 
 
-![xylophone](https://github.com/naomimatthews/Xylophone-App/assets/67332327/b458b9d7-2848-42ed-a37d-f8e3d0927754)
-
-
+![xylophone (1)](https://github.com/naomimatthews/Xylophone-App/assets/67332327/c95bc239-c07f-4437-861b-e15194eef4e2)
 
 ## Features
 
